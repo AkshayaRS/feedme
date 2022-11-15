@@ -22,3 +22,4 @@ Run the App
 2. install Spring tool suite/intellij
 3. open project the maven project in IDE
 4. run the application on tomcat server (host=localhost, port=8081)
+
